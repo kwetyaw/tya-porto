@@ -3,13 +3,13 @@
 Halo! Aku Tya, pemula yang sedang belajar IT dari nol. Aku tertarik banget di bidang Web Development dan UI/UX. Portofolio ini adalah bukti langkah pertamaku untuk terus berkembang.
 
  • Portofolio PDF  
-[Lihat PDF Portofolio](./tya-portfolio-fix.pdf)
+[Lihat PDF Portofolio](./tya-portofolio-fix.pdf)
 
  • Bukti Belajar
 1. Belajar AWS Dasar di Dicoding  
    ![Dicoding](./belajar-aws-di-dicoding.jpg)
 2. Nonton HTML for Beginners – FreeCodeCamp  
-   ![FreeCodeCamp](./nonton-html-for-beginners-freecodecamp.jpg)
+   ![FreeCodeCamp](./html-for-beginners-freecodecamp.jpg)
 
  📝 Rencana belajar '1% for daily'
 - Minggu 1–2: HTML & CSS dasar  
